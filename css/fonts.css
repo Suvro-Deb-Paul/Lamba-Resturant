@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "GentiumBookBasic-Bold";
+  src: url("../fonts/Gentium_Book_Basic/GentiumBookBasic-Bold.ttf");
+}
+@font-face {
+  font-family: "GentiumBookBasic-Regular";
+  src: url("../fonts/Gentium_Book_Basic/GentiumBookBasic-Regular.ttf");
+}
+@font-face {
+  font-family: "GentiumBookBasic-Italic";
+  src: url("../fonts/Gentium_Book_Basic/GentiumBookBasic-Italic.ttf");
+}
+@font-face {
+  font-family: "Lato-Bold";
+  src: url("../fonts/Lato/Lato-Bold.ttf");
+}
+@font-face {
+  font-family: "Lato-Italic";
+  src: url("../fonts/Lato/Lato-Italic.ttf");
+}
+@font-face {
+  font-family: "Lato-Regular";
+  src: url("../fonts/Lato/Lato-Regular.ttf");
+}
+
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: url("../fonts/Open_Sans/OpenSans-Bold.ttf");
+}
+@font-face {
+  font-family: "OpenSans-Italic";
+  src: url("../fonts/Open_Sans/OpenSans-Italic.ttf");
+}
+@font-face {
+  font-family: "OpenSans-Regular";
+  src: url("../fonts/Open_Sans/OpenSans-Regular.ttf");
+}
+@font-face {
+  font-family: "YesevaOne-Regular";
+  src: url("../fonts/Yeseva_One/YesevaOne-Regular.ttf");
+}
